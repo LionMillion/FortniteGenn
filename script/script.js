@@ -1,4 +1,4 @@
-var NumberOfWords = 30
+var NumberOfWords = 45
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
@@ -33,6 +33,21 @@ words[27] = "https://shrinkurl.org/pf7hUa1j"
 words[28] = "https://shrinkurl.org/rlbG1Ce8"
 words[29] = "https://shrinkurl.org/v33m"
 words[30] = "https://shrinkurl.org/WvgLs1"
+words[31] = "https://todaynewspk.win/3RhoNqe" 
+words[32] = "https://todaynewspk.win/XdN7iC" 
+words[33] = "https://todaynewspk.win/H4MOB7" 
+words[34] = "https://todaynewspk.win/oCwWo" 
+words[35] = "https://todaynewspk.win/uvNzs" 
+words[36] = "https://todaynewspk.win/wB5spgz" 
+words[37] = "https://todaynewspk.win/x4ad" 
+words[38] = "https://todaynewspk.win/whXP3fn" 
+words[39] = "https://todaynewspk.win/PG6w" 
+words[40] = "https://todaynewspk.win/B7Nb" 
+words[41] = "https://todaynewspk.win/0JbTek"
+words[42] = "https://todaynewspk.win/ni2hOK"
+words[43] = "https://todaynewspk.win/BpxeYev"
+words[44] = "https://todaynewspk.win/VpIwAL"
+words[45] = "https://todaynewspk.win/wxhKxo"
 
 
 
