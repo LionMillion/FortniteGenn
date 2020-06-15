@@ -1,4 +1,4 @@
-var NumberOfWords = 60
+var NumberOfWords = 71
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
@@ -63,6 +63,17 @@ words[57] = "http://gestyy.com/eqr22D"
 words[58] = "http://gestyy.com/eqr22K"
 words[59] = "http://gestyy.com/eqr22V"
 words[60] = "http://gestyy.com/eqr27l"
+words[61] = "http://gestyy.com/eqr27b"
+words[62] = "http://gestyy.com/eqr27E"
+words[63] = "http://gestyy.com/eqr27I"
+words[64] = "http://gestyy.com/eqr27D"
+words[65] = "http://gestyy.com/eqr27K"
+words[66] = "http://gestyy.com/eqr27V"
+words[67] = "http://gestyy.com/eqr272"
+words[68] = "http://gestyy.com/eqr277"
+words[69] = "http://gestyy.com/eqr28w"
+words[70] = "http://gestyy.com/eqr28u"
+words[71] = "http://gestyy.com/eqr28s"
 
 
 
